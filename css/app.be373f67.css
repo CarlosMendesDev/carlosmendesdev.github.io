@@ -1,0 +1,1 @@
+.shadow-primary{box-shadow:0px 4px 55px rgba(153,0,234,0.2)}@media (min-height:800px){:root{font-size:18px}}@keyframes myProjects{0%{transform:scale(1)}80%{transform:scale(1)}85%{transform:scale(1.1)}88%{transform:scale(1)}92%{transform:scale(1.1)}97%{transform:scale(1.1)}to{transform:scale(1)}}.btn-cta-animation{animation:myProjects 6s ease-in-out infinite}
